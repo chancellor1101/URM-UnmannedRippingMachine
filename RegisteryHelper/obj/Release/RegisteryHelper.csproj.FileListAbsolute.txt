@@ -1,0 +1,6 @@
+C:\Users\clint\Google Drive\Projects\URM Unmanned Ripping Machine\RegisteryHelper\bin\Release\RegisteryHelper.exe.config
+C:\Users\clint\Google Drive\Projects\URM Unmanned Ripping Machine\RegisteryHelper\bin\Release\RegisteryHelper.exe
+C:\Users\clint\Google Drive\Projects\URM Unmanned Ripping Machine\RegisteryHelper\bin\Release\RegisteryHelper.pdb
+C:\Users\clint\Google Drive\Projects\URM Unmanned Ripping Machine\RegisteryHelper\obj\Release\RegisteryHelper.csprojResolveAssemblyReference.cache
+C:\Users\clint\Google Drive\Projects\URM Unmanned Ripping Machine\RegisteryHelper\obj\Release\RegisteryHelper.exe
+C:\Users\clint\Google Drive\Projects\URM Unmanned Ripping Machine\RegisteryHelper\obj\Release\RegisteryHelper.pdb

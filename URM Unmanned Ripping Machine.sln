@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnmannedRippingMachine", "URM Unmanned Ripping Machine\UnmannedRippingMachine.csproj", "{793870D6-3898-4970-B56B-2F21EF2D60EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PressOkToSaveChanges", "RegisteryHelper\PressOkToSaveChanges.csproj", "{64C7E5FB-C14C-4738-A92C-1D1B8B516655}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{793870D6-3898-4970-B56B-2F21EF2D60EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{793870D6-3898-4970-B56B-2F21EF2D60EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{793870D6-3898-4970-B56B-2F21EF2D60EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{793870D6-3898-4970-B56B-2F21EF2D60EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64C7E5FB-C14C-4738-A92C-1D1B8B516655}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64C7E5FB-C14C-4738-A92C-1D1B8B516655}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64C7E5FB-C14C-4738-A92C-1D1B8B516655}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64C7E5FB-C14C-4738-A92C-1D1B8B516655}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://tfs.codeplex.com/tfs/tfs41
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = URM\u0020Unmanned\u0020Ripping\u0020Machine\\UnmannedRippingMachine.csproj
+		SccProjectName1 = URM\u0020Unmanned\u0020Ripping\u0020Machine
+		SccLocalPath1 = URM\u0020Unmanned\u0020Ripping\u0020Machine
+		SccProjectUniqueName2 = RegisteryHelper\\PressOkToSaveChanges.csproj
+		SccProjectName2 = RegisteryHelper
+		SccLocalPath2 = RegisteryHelper
+	EndGlobalSection
+EndGlobal

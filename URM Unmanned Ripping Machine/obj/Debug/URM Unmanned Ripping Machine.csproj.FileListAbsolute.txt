@@ -1,0 +1,17 @@
+C:\Users\clint\Google Drive\Projects\URM Unmanned Ripping Machine\URM Unmanned Ripping Machine\bin\Debug\URM Unmanned Ripping Machine.exe.config
+C:\Users\clint\Google Drive\Projects\URM Unmanned Ripping Machine\URM Unmanned Ripping Machine\bin\Debug\URM Unmanned Ripping Machine.exe.manifest
+C:\Users\clint\Google Drive\Projects\URM Unmanned Ripping Machine\URM Unmanned Ripping Machine\bin\Debug\URM Unmanned Ripping Machine.application
+C:\Users\clint\Google Drive\Projects\URM Unmanned Ripping Machine\URM Unmanned Ripping Machine\bin\Debug\URM Unmanned Ripping Machine.exe
+C:\Users\clint\Google Drive\Projects\URM Unmanned Ripping Machine\URM Unmanned Ripping Machine\bin\Debug\URM Unmanned Ripping Machine.pdb
+C:\Users\clint\Google Drive\Projects\URM Unmanned Ripping Machine\URM Unmanned Ripping Machine\obj\Debug\URM_Unmanned_Ripping_Machine.Form1.resources
+C:\Users\clint\Google Drive\Projects\URM Unmanned Ripping Machine\URM Unmanned Ripping Machine\obj\Debug\URM_Unmanned_Ripping_Machine.Properties.Resources.resources
+C:\Users\clint\Google Drive\Projects\URM Unmanned Ripping Machine\URM Unmanned Ripping Machine\obj\Debug\URM_Unmanned_Ripping_Machine.Settings.resources
+C:\Users\clint\Google Drive\Projects\URM Unmanned Ripping Machine\URM Unmanned Ripping Machine\obj\Debug\URM Unmanned Ripping Machine.csproj.GenerateResource.Cache
+C:\Users\clint\Google Drive\Projects\URM Unmanned Ripping Machine\URM Unmanned Ripping Machine\obj\Debug\URM Unmanned Ripping Machine.exe.manifest
+C:\Users\clint\Google Drive\Projects\URM Unmanned Ripping Machine\URM Unmanned Ripping Machine\obj\Debug\URM Unmanned Ripping Machine.application
+C:\Users\clint\Google Drive\Projects\URM Unmanned Ripping Machine\URM Unmanned Ripping Machine\obj\Debug\URM Unmanned Ripping Machine.exe
+C:\Users\clint\Google Drive\Projects\URM Unmanned Ripping Machine\URM Unmanned Ripping Machine\obj\Debug\URM Unmanned Ripping Machine.pdb
+C:\Users\clint\Google Drive\Projects\URM Unmanned Ripping Machine\URM Unmanned Ripping Machine\bin\Debug\RegisteryHelper.exe
+C:\Users\clint\Google Drive\Projects\URM Unmanned Ripping Machine\URM Unmanned Ripping Machine\obj\Debug\URM_Unmanned_Ripping_Machine.Notification.resources
+C:\Users\clint\Google Drive\Projects\URM Unmanned Ripping Machine\URM Unmanned Ripping Machine\obj\Debug\URM Unmanned Ripping Machine.csprojResolveAssemblyReference.cache
+C:\Users\clint\Google Drive\Projects\URM Unmanned Ripping Machine\URM Unmanned Ripping Machine\obj\Debug\URM_Unmanned_Ripping_Machine.AboutBox.resources
